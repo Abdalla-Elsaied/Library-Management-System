@@ -6897,19 +6897,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\DELL\\.nuget\\packages\\": {}
+    "C:\\Users\\Magico\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Programming\\Projects\\Library\\Library\\myshop.Web\\myshop.Entities\\myshop.Entities.csproj",
+      "projectUniqueName": "D:\\DEPI\\New folder\\Library-Management-System\\myshop.Web\\myshop.Entities\\myshop.Entities.csproj",
       "projectName": "myshop.Entities",
-      "projectPath": "D:\\Programming\\Projects\\Library\\Library\\myshop.Web\\myshop.Entities\\myshop.Entities.csproj",
-      "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-      "outputPath": "D:\\Programming\\Projects\\Library\\Library\\myshop.Web\\myshop.Entities\\obj\\",
+      "projectPath": "D:\\DEPI\\New folder\\Library-Management-System\\myshop.Web\\myshop.Entities\\myshop.Entities.csproj",
+      "packagesPath": "C:\\Users\\Magico\\.nuget\\packages\\",
+      "outputPath": "D:\\DEPI\\New folder\\Library-Management-System\\myshop.Web\\myshop.Entities\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Magico\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

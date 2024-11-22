@@ -82,3 +82,28 @@ D:\Programming\Projects\Library\Library\myshop.Web\myshop.Utilities\obj\Debug\ne
 D:\Programming\Projects\Library\Library\myshop.Web\myshop.Utilities\obj\Debug\net7.0\refint\myshop.Utilities.dll
 D:\Programming\Projects\Library\Library\myshop.Web\myshop.Utilities\obj\Debug\net7.0\myshop.Utilities.pdb
 D:\Programming\Projects\Library\Library\myshop.Web\myshop.Utilities\obj\Debug\net7.0\ref\myshop.Utilities.dll
+C:\Users\Magico\Downloads\Library\Library\myshop.Web\myshop.Utilities\bin\Debug\net7.0\myshop.Utilities.deps.json
+C:\Users\Magico\Downloads\Library\Library\myshop.Web\myshop.Utilities\bin\Debug\net7.0\myshop.Utilities.dll
+C:\Users\Magico\Downloads\Library\Library\myshop.Web\myshop.Utilities\bin\Debug\net7.0\myshop.Utilities.pdb
+C:\Users\Magico\Downloads\Library\Library\myshop.Web\myshop.Utilities\obj\Debug\net7.0\myshop.Utilities.csproj.AssemblyReference.cache
+C:\Users\Magico\Downloads\Library\Library\myshop.Web\myshop.Utilities\obj\Debug\net7.0\myshop.Utilities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Magico\Downloads\Library\Library\myshop.Web\myshop.Utilities\obj\Debug\net7.0\myshop.Utilities.AssemblyInfoInputs.cache
+C:\Users\Magico\Downloads\Library\Library\myshop.Web\myshop.Utilities\obj\Debug\net7.0\myshop.Utilities.AssemblyInfo.cs
+C:\Users\Magico\Downloads\Library\Library\myshop.Web\myshop.Utilities\obj\Debug\net7.0\myshop.Utilities.csproj.CoreCompileInputs.cache
+C:\Users\Magico\Downloads\Library\Library\myshop.Web\myshop.Utilities\obj\Debug\net7.0\myshop.Utilities.dll
+C:\Users\Magico\Downloads\Library\Library\myshop.Web\myshop.Utilities\obj\Debug\net7.0\refint\myshop.Utilities.dll
+C:\Users\Magico\Downloads\Library\Library\myshop.Web\myshop.Utilities\obj\Debug\net7.0\myshop.Utilities.pdb
+C:\Users\Magico\Downloads\Library\Library\myshop.Web\myshop.Utilities\obj\Debug\net7.0\ref\myshop.Utilities.dll
+D:\DEPI\New folder\Library-Management-System\myshop.Web\myshop.Utilities\bin\Debug\net7.0\myshop.Utilities.deps.json
+D:\DEPI\New folder\Library-Management-System\myshop.Web\myshop.Utilities\bin\Debug\net7.0\myshop.Utilities.dll
+D:\DEPI\New folder\Library-Management-System\myshop.Web\myshop.Utilities\bin\Debug\net7.0\myshop.Utilities.pdb
+D:\DEPI\New folder\Library-Management-System\myshop.Web\myshop.Utilities\obj\Debug\net7.0\myshop.Utilities.csproj.AssemblyReference.cache
+D:\DEPI\New folder\Library-Management-System\myshop.Web\myshop.Utilities\obj\Debug\net7.0\myshop.Utilities.GeneratedMSBuildEditorConfig.editorconfig
+D:\DEPI\New folder\Library-Management-System\myshop.Web\myshop.Utilities\obj\Debug\net7.0\myshop.Utilities.AssemblyInfoInputs.cache
+D:\DEPI\New folder\Library-Management-System\myshop.Web\myshop.Utilities\obj\Debug\net7.0\myshop.Utilities.AssemblyInfo.cs
+D:\DEPI\New folder\Library-Management-System\myshop.Web\myshop.Utilities\obj\Debug\net7.0\myshop.Utilities.csproj.CoreCompileInputs.cache
+D:\DEPI\New folder\Library-Management-System\myshop.Web\myshop.Utilities\obj\Debug\net7.0\myshop.Utilities.sourcelink.json
+D:\DEPI\New folder\Library-Management-System\myshop.Web\myshop.Utilities\obj\Debug\net7.0\myshop.Utilities.dll
+D:\DEPI\New folder\Library-Management-System\myshop.Web\myshop.Utilities\obj\Debug\net7.0\refint\myshop.Utilities.dll
+D:\DEPI\New folder\Library-Management-System\myshop.Web\myshop.Utilities\obj\Debug\net7.0\myshop.Utilities.pdb
+D:\DEPI\New folder\Library-Management-System\myshop.Web\myshop.Utilities\obj\Debug\net7.0\ref\myshop.Utilities.dll

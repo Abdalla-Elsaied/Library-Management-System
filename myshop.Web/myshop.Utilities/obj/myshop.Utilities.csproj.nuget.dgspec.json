@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Programming\\Projects\\Library\\Library\\myshop.Web\\myshop.Utilities\\myshop.Utilities.csproj": {}
+    "D:\\DEPI\\New folder\\Library-Management-System\\myshop.Web\\myshop.Utilities\\myshop.Utilities.csproj": {}
   },
   "projects": {
-    "D:\\Programming\\Projects\\Library\\Library\\myshop.Web\\myshop.Utilities\\myshop.Utilities.csproj": {
+    "D:\\DEPI\\New folder\\Library-Management-System\\myshop.Web\\myshop.Utilities\\myshop.Utilities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Programming\\Projects\\Library\\Library\\myshop.Web\\myshop.Utilities\\myshop.Utilities.csproj",
+        "projectUniqueName": "D:\\DEPI\\New folder\\Library-Management-System\\myshop.Web\\myshop.Utilities\\myshop.Utilities.csproj",
         "projectName": "myshop.Utilities",
-        "projectPath": "D:\\Programming\\Projects\\Library\\Library\\myshop.Web\\myshop.Utilities\\myshop.Utilities.csproj",
-        "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-        "outputPath": "D:\\Programming\\Projects\\Library\\Library\\myshop.Web\\myshop.Utilities\\obj\\",
+        "projectPath": "D:\\DEPI\\New folder\\Library-Management-System\\myshop.Web\\myshop.Utilities\\myshop.Utilities.csproj",
+        "packagesPath": "C:\\Users\\Magico\\.nuget\\packages\\",
+        "outputPath": "D:\\DEPI\\New folder\\Library-Management-System\\myshop.Web\\myshop.Utilities\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Magico\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

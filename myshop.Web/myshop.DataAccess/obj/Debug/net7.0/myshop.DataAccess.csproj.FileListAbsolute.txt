@@ -185,3 +185,38 @@ D:\Programming\Projects\Library\Library\myshop.Web\myshop.DataAccess\obj\Debug\n
 D:\Programming\Projects\Library\Library\myshop.Web\myshop.DataAccess\obj\Debug\net7.0\myshop.DataAccess.pdb
 D:\Programming\Projects\Library\Library\myshop.Web\myshop.DataAccess\obj\Debug\net7.0\myshop.DataAccess.genruntimeconfig.cache
 D:\Programming\Projects\Library\Library\myshop.Web\myshop.DataAccess\obj\Debug\net7.0\ref\myshop.DataAccess.dll
+C:\Users\Magico\Downloads\Library\Library\myshop.Web\myshop.DataAccess\bin\Debug\net7.0\myshop.DataAccess.deps.json
+C:\Users\Magico\Downloads\Library\Library\myshop.Web\myshop.DataAccess\bin\Debug\net7.0\myshop.DataAccess.runtimeconfig.json
+C:\Users\Magico\Downloads\Library\Library\myshop.Web\myshop.DataAccess\bin\Debug\net7.0\myshop.DataAccess.dll
+C:\Users\Magico\Downloads\Library\Library\myshop.Web\myshop.DataAccess\bin\Debug\net7.0\myshop.DataAccess.pdb
+C:\Users\Magico\Downloads\Library\Library\myshop.Web\myshop.DataAccess\bin\Debug\net7.0\myshop.Entities.dll
+C:\Users\Magico\Downloads\Library\Library\myshop.Web\myshop.DataAccess\bin\Debug\net7.0\myshop.Entities.pdb
+C:\Users\Magico\Downloads\Library\Library\myshop.Web\myshop.DataAccess\obj\Debug\net7.0\myshop.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Magico\Downloads\Library\Library\myshop.Web\myshop.DataAccess\obj\Debug\net7.0\myshop.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Magico\Downloads\Library\Library\myshop.Web\myshop.DataAccess\obj\Debug\net7.0\myshop.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Magico\Downloads\Library\Library\myshop.Web\myshop.DataAccess\obj\Debug\net7.0\myshop.DataAccess.AssemblyInfo.cs
+C:\Users\Magico\Downloads\Library\Library\myshop.Web\myshop.DataAccess\obj\Debug\net7.0\myshop.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Magico\Downloads\Library\Library\myshop.Web\myshop.DataAccess\obj\Debug\net7.0\myshop.D.0D8314D7.Up2Date
+C:\Users\Magico\Downloads\Library\Library\myshop.Web\myshop.DataAccess\obj\Debug\net7.0\myshop.DataAccess.dll
+C:\Users\Magico\Downloads\Library\Library\myshop.Web\myshop.DataAccess\obj\Debug\net7.0\refint\myshop.DataAccess.dll
+C:\Users\Magico\Downloads\Library\Library\myshop.Web\myshop.DataAccess\obj\Debug\net7.0\myshop.DataAccess.pdb
+C:\Users\Magico\Downloads\Library\Library\myshop.Web\myshop.DataAccess\obj\Debug\net7.0\myshop.DataAccess.genruntimeconfig.cache
+C:\Users\Magico\Downloads\Library\Library\myshop.Web\myshop.DataAccess\obj\Debug\net7.0\ref\myshop.DataAccess.dll
+D:\DEPI\New folder\Library-Management-System\myshop.Web\myshop.DataAccess\bin\Debug\net7.0\myshop.DataAccess.deps.json
+D:\DEPI\New folder\Library-Management-System\myshop.Web\myshop.DataAccess\bin\Debug\net7.0\myshop.DataAccess.runtimeconfig.json
+D:\DEPI\New folder\Library-Management-System\myshop.Web\myshop.DataAccess\bin\Debug\net7.0\myshop.DataAccess.dll
+D:\DEPI\New folder\Library-Management-System\myshop.Web\myshop.DataAccess\bin\Debug\net7.0\myshop.DataAccess.pdb
+D:\DEPI\New folder\Library-Management-System\myshop.Web\myshop.DataAccess\bin\Debug\net7.0\myshop.Entities.dll
+D:\DEPI\New folder\Library-Management-System\myshop.Web\myshop.DataAccess\bin\Debug\net7.0\myshop.Entities.pdb
+D:\DEPI\New folder\Library-Management-System\myshop.Web\myshop.DataAccess\obj\Debug\net7.0\myshop.DataAccess.csproj.AssemblyReference.cache
+D:\DEPI\New folder\Library-Management-System\myshop.Web\myshop.DataAccess\obj\Debug\net7.0\myshop.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\DEPI\New folder\Library-Management-System\myshop.Web\myshop.DataAccess\obj\Debug\net7.0\myshop.DataAccess.AssemblyInfoInputs.cache
+D:\DEPI\New folder\Library-Management-System\myshop.Web\myshop.DataAccess\obj\Debug\net7.0\myshop.DataAccess.AssemblyInfo.cs
+D:\DEPI\New folder\Library-Management-System\myshop.Web\myshop.DataAccess\obj\Debug\net7.0\myshop.DataAccess.csproj.CoreCompileInputs.cache
+D:\DEPI\New folder\Library-Management-System\myshop.Web\myshop.DataAccess\obj\Debug\net7.0\myshop.DataAccess.sourcelink.json
+D:\DEPI\New folder\Library-Management-System\myshop.Web\myshop.DataAccess\obj\Debug\net7.0\myshop.D.0D8314D7.Up2Date
+D:\DEPI\New folder\Library-Management-System\myshop.Web\myshop.DataAccess\obj\Debug\net7.0\myshop.DataAccess.dll
+D:\DEPI\New folder\Library-Management-System\myshop.Web\myshop.DataAccess\obj\Debug\net7.0\refint\myshop.DataAccess.dll
+D:\DEPI\New folder\Library-Management-System\myshop.Web\myshop.DataAccess\obj\Debug\net7.0\myshop.DataAccess.pdb
+D:\DEPI\New folder\Library-Management-System\myshop.Web\myshop.DataAccess\obj\Debug\net7.0\myshop.DataAccess.genruntimeconfig.cache
+D:\DEPI\New folder\Library-Management-System\myshop.Web\myshop.DataAccess\obj\Debug\net7.0\ref\myshop.DataAccess.dll
