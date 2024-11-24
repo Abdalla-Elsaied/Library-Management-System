@@ -3,36 +3,12 @@
   "WorkspaceRootPath": "D:\\DEPI\\New folder\\Library-Management-System\\myshop.Web\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E81509D0-95E0-40B3-9588-5213370F33D4}|myshop.Web\\myshop.Web.csproj|d:\\depi\\new folder\\library-management-system\\myshop.web\\myshop.web\\views\\shared\\_customer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E81509D0-95E0-40B3-9588-5213370F33D4}|myshop.Web\\myshop.Web.csproj|solutionrelative:myshop.web\\views\\shared\\_customer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E81509D0-95E0-40B3-9588-5213370F33D4}|myshop.Web\\myshop.Web.csproj|d:\\depi\\new folder\\library-management-system\\myshop.web\\myshop.web\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E81509D0-95E0-40B3-9588-5213370F33D4}|myshop.Web\\myshop.Web.csproj|solutionrelative:myshop.web\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E81509D0-95E0-40B3-9588-5213370F33D4}|myshop.Web\\myshop.Web.csproj|d:\\depi\\new folder\\library-management-system\\myshop.web\\myshop.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E81509D0-95E0-40B3-9588-5213370F33D4}|myshop.Web\\myshop.Web.csproj|solutionrelative:myshop.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E81509D0-95E0-40B3-9588-5213370F33D4}|myshop.Web\\myshop.Web.csproj|d:\\depi\\new folder\\library-management-system\\myshop.web\\myshop.web\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E81509D0-95E0-40B3-9588-5213370F33D4}|myshop.Web\\myshop.Web.csproj|solutionrelative:myshop.web\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E81509D0-95E0-40B3-9588-5213370F33D4}|myshop.Web\\myshop.Web.csproj|d:\\depi\\new folder\\library-management-system\\myshop.web\\myshop.web\\views\\shared\\_dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E81509D0-95E0-40B3-9588-5213370F33D4}|myshop.Web\\myshop.Web.csproj|solutionrelative:myshop.web\\views\\shared\\_dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E81509D0-95E0-40B3-9588-5213370F33D4}|myshop.Web\\myshop.Web.csproj|d:\\depi\\new folder\\library-management-system\\myshop.web\\myshop.web\\areas\\admin\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E81509D0-95E0-40B3-9588-5213370F33D4}|myshop.Web\\myshop.Web.csproj|solutionrelative:myshop.web\\areas\\admin\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E81509D0-95E0-40B3-9588-5213370F33D4}|myshop.Web\\myshop.Web.csproj|d:\\depi\\new folder\\library-management-system\\myshop.web\\myshop.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{E81509D0-95E0-40B3-9588-5213370F33D4}|myshop.Web\\myshop.Web.csproj|solutionrelative:myshop.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E81509D0-95E0-40B3-9588-5213370F33D4}|myshop.Web\\myshop.Web.csproj|d:\\depi\\new folder\\library-management-system\\myshop.web\\myshop.web\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{E81509D0-95E0-40B3-9588-5213370F33D4}|myshop.Web\\myshop.Web.csproj|solutionrelative:myshop.web\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{E81509D0-95E0-40B3-9588-5213370F33D4}|myshop.Web\\myshop.Web.csproj|d:\\depi\\new folder\\library-management-system\\myshop.web\\myshop.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E81509D0-95E0-40B3-9588-5213370F33D4}|myshop.Web\\myshop.Web.csproj|solutionrelative:myshop.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -47,104 +23,28 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "_Customer.cshtml",
-              "DocumentMoniker": "D:\\DEPI\\New folder\\Library-Management-System\\myshop.Web\\myshop.Web\\Views\\Shared\\_Customer.cshtml",
-              "RelativeDocumentMoniker": "myshop.Web\\Views\\Shared\\_Customer.cshtml",
-              "ToolTip": "D:\\DEPI\\New folder\\Library-Management-System\\myshop.Web\\myshop.Web\\Views\\Shared\\_Customer.cshtml",
-              "RelativeToolTip": "myshop.Web\\Views\\Shared\\_Customer.cshtml",
-              "ViewState": "AgIAAEkAAAAAAAAAAABgPVMAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-22T17:07:12.255Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "_LoginPartial.cshtml",
-              "DocumentMoniker": "D:\\DEPI\\New folder\\Library-Management-System\\myshop.Web\\myshop.Web\\Views\\Shared\\_LoginPartial.cshtml",
-              "RelativeDocumentMoniker": "myshop.Web\\Views\\Shared\\_LoginPartial.cshtml",
-              "ToolTip": "D:\\DEPI\\New folder\\Library-Management-System\\myshop.Web\\myshop.Web\\Views\\Shared\\_LoginPartial.cshtml",
-              "RelativeToolTip": "myshop.Web\\Views\\Shared\\_LoginPartial.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-22T17:07:02.494Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "D:\\DEPI\\New folder\\Library-Management-System\\myshop.Web\\myshop.Web\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "myshop.Web\\Views\\_ViewStart.cshtml",
-              "ToolTip": "D:\\DEPI\\New folder\\Library-Management-System\\myshop.Web\\myshop.Web\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "myshop.Web\\Views\\_ViewStart.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-22T17:06:47.203Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "_Dashboard.cshtml",
-              "DocumentMoniker": "D:\\DEPI\\New folder\\Library-Management-System\\myshop.Web\\myshop.Web\\Views\\Shared\\_Dashboard.cshtml",
-              "RelativeDocumentMoniker": "myshop.Web\\Views\\Shared\\_Dashboard.cshtml",
-              "ToolTip": "D:\\DEPI\\New folder\\Library-Management-System\\myshop.Web\\myshop.Web\\Views\\Shared\\_Dashboard.cshtml",
-              "RelativeToolTip": "myshop.Web\\Views\\Shared\\_Dashboard.cshtml",
-              "ViewState": "AgIAABwBAAAAAAAAAACqvQAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-22T17:05:19.703Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "D:\\DEPI\\New folder\\Library-Management-System\\myshop.Web\\myshop.Web\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "myshop.Web\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "D:\\DEPI\\New folder\\Library-Management-System\\myshop.Web\\myshop.Web\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "myshop.Web\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAABsAAAAAPTMzMzMLwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-22T17:04:39.595Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "UsersController.cs",
-              "DocumentMoniker": "D:\\DEPI\\New folder\\Library-Management-System\\myshop.Web\\myshop.Web\\Areas\\Admin\\Controllers\\UsersController.cs",
-              "RelativeDocumentMoniker": "myshop.Web\\Areas\\Admin\\Controllers\\UsersController.cs",
-              "ToolTip": "D:\\DEPI\\New folder\\Library-Management-System\\myshop.Web\\myshop.Web\\Areas\\Admin\\Controllers\\UsersController.cs",
-              "RelativeToolTip": "myshop.Web\\Areas\\Admin\\Controllers\\UsersController.cs",
-              "ViewState": "AgIAACQAAACAY2ZmZmYSwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-22T17:03:17.593Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\DEPI\\New folder\\Library-Management-System\\myshop.Web\\myshop.Web\\appsettings.json",
               "RelativeDocumentMoniker": "myshop.Web\\appsettings.json",
               "ToolTip": "D:\\DEPI\\New folder\\Library-Management-System\\myshop.Web\\myshop.Web\\appsettings.json",
               "RelativeToolTip": "myshop.Web\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-11-22T16:56:35.411Z"
+              "WhenOpened": "2024-11-22T18:05:25.427Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "appsettings.Development.json",
-              "DocumentMoniker": "D:\\DEPI\\New folder\\Library-Management-System\\myshop.Web\\myshop.Web\\appsettings.Development.json",
-              "RelativeDocumentMoniker": "myshop.Web\\appsettings.Development.json",
-              "ToolTip": "D:\\DEPI\\New folder\\Library-Management-System\\myshop.Web\\myshop.Web\\appsettings.Development.json",
-              "RelativeToolTip": "myshop.Web\\appsettings.Development.json",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DEPI\\New folder\\Library-Management-System\\myshop.Web\\myshop.Web\\Program.cs",
+              "RelativeDocumentMoniker": "myshop.Web\\Program.cs",
+              "ToolTip": "D:\\DEPI\\New folder\\Library-Management-System\\myshop.Web\\myshop.Web\\Program.cs",
+              "RelativeToolTip": "myshop.Web\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-11-22T16:56:34.099Z"
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T18:05:23.689Z",
+              "EditorCaption": ""
             }
           ]
         }

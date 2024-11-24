@@ -1,0 +1,13 @@
+D:\DEPI\New folder\Library-Management-System\myshop.Web\myshop.Entities\bin\Release\net7.0\myshop.Entities.deps.json
+D:\DEPI\New folder\Library-Management-System\myshop.Web\myshop.Entities\bin\Release\net7.0\myshop.Entities.dll
+D:\DEPI\New folder\Library-Management-System\myshop.Web\myshop.Entities\bin\Release\net7.0\myshop.Entities.pdb
+D:\DEPI\New folder\Library-Management-System\myshop.Web\myshop.Entities\obj\Release\net7.0\myshop.Entities.csproj.AssemblyReference.cache
+D:\DEPI\New folder\Library-Management-System\myshop.Web\myshop.Entities\obj\Release\net7.0\myshop.Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\DEPI\New folder\Library-Management-System\myshop.Web\myshop.Entities\obj\Release\net7.0\myshop.Entities.AssemblyInfoInputs.cache
+D:\DEPI\New folder\Library-Management-System\myshop.Web\myshop.Entities\obj\Release\net7.0\myshop.Entities.AssemblyInfo.cs
+D:\DEPI\New folder\Library-Management-System\myshop.Web\myshop.Entities\obj\Release\net7.0\myshop.Entities.csproj.CoreCompileInputs.cache
+D:\DEPI\New folder\Library-Management-System\myshop.Web\myshop.Entities\obj\Release\net7.0\myshop.Entities.sourcelink.json
+D:\DEPI\New folder\Library-Management-System\myshop.Web\myshop.Entities\obj\Release\net7.0\myshop.Entities.dll
+D:\DEPI\New folder\Library-Management-System\myshop.Web\myshop.Entities\obj\Release\net7.0\refint\myshop.Entities.dll
+D:\DEPI\New folder\Library-Management-System\myshop.Web\myshop.Entities\obj\Release\net7.0\myshop.Entities.pdb
+D:\DEPI\New folder\Library-Management-System\myshop.Web\myshop.Entities\obj\Release\net7.0\ref\myshop.Entities.dll
