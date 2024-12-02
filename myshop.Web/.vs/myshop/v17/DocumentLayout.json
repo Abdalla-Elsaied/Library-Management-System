@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\DEPI\\New folder\\Library-Management-System\\myshop.Web\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{05C99847-EEB3-4D83-A905-11F93F17DB3B}|myshop.Entities\\myshop.Entities.csproj|d:\\depi\\new folder\\library-management-system\\myshop.web\\myshop.entities\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05C99847-EEB3-4D83-A905-11F93F17DB3B}|myshop.Entities\\myshop.Entities.csproj|solutionrelative:myshop.entities\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E81509D0-95E0-40B3-9588-5213370F33D4}|myshop.Web\\myshop.Web.csproj|d:\\depi\\new folder\\library-management-system\\myshop.web\\myshop.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{E81509D0-95E0-40B3-9588-5213370F33D4}|myshop.Web\\myshop.Web.csproj|solutionrelative:myshop.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
@@ -23,6 +27,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "D:\\DEPI\\New folder\\Library-Management-System\\myshop.Web\\myshop.Entities\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "myshop.Entities\\Models\\ApplicationUser.cs",
+              "ToolTip": "D:\\DEPI\\New folder\\Library-Management-System\\myshop.Web\\myshop.Entities\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "myshop.Entities\\Models\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T23:32:14.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\DEPI\\New folder\\Library-Management-System\\myshop.Web\\myshop.Web\\appsettings.json",
               "RelativeDocumentMoniker": "myshop.Web\\appsettings.json",
@@ -35,7 +52,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\DEPI\\New folder\\Library-Management-System\\myshop.Web\\myshop.Web\\Program.cs",
               "RelativeDocumentMoniker": "myshop.Web\\Program.cs",
@@ -43,8 +60,7 @@
               "RelativeToolTip": "myshop.Web\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-22T18:05:23.689Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-22T18:05:23.689Z"
             }
           ]
         }
